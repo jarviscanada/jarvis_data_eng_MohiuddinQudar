@@ -6,15 +6,15 @@ My research work has been recognized and published in top peer-reviewed journals
 
 ## Profile Summary
 
--7 years of experience in Python, JAVA, C\#, C, C++, SQL programming, and MS Suite (Microsoft Word, Excel, VBA, Macros, Access), HTML, JavaScript and CSS.
+7 years of experience in Python, JAVA, C\#, C, C++, SQL programming, and MS Suite (Microsoft Word, Excel, VBA, Macros, Access), HTML, JavaScript and CSS.
 
--5 years of experience with machine learning and deep learning engineering for analyzing real-life problems.
+5 years of experience with machine learning and deep learning engineering for analyzing real-life problems.
 
--5 years experience in developing data models and data visualization techniques for charts and reports, i.e laTex.
+5 years experience in developing data models and data visualization techniques for charts and reports, i.e laTex.
 
--2 years of experience with Natural Language Processing (NLP) and text analysis using state of the art language models, methods and libraries.
+2 years of experience with Natural Language Processing (NLP) and text analysis using state of the art language models, methods and libraries.
 
--2 years of experience in Linux environment using bash, Tableau, MATLAB, shell, Git, Docker,and High-performance computing (HPC).
+2 years of experience in Linux environment using bash, Tableau, MATLAB, shell, Git, Docker,and High-performance computing (HPC).
 
 
 ## Skills
@@ -39,25 +39,25 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KaziZainab
 
 
 ## Highlighted Projects
--Developed a novel opinion mining system called ONSET, enabling language models to be fine tune without using large amounts of training data. Developed using an unsupervised learning approach to label aspects using topic modeling and then using semi-supervised learning with data augmentation. This model can also be used as a recommendation or ranking system. This project has been submitted to a peer-reviewed conference, which is currently under review.
+- Developed a novel opinion mining system called ONSET, enabling language models to be fine tune without using large amounts of training data. Developed using an unsupervised learning approach to label aspects using topic modeling and then using semi-supervised learning with data augmentation. This model can also be used as a recommendation or ranking system. This project has been submitted to a peer-reviewed conference, which is currently under review.
 
 
--Introduced two transformer based models, TweetBERT, which are domain-specific language presentation models pre-trained on millions of Twitter data (tweets). Evaluated and compared 12 BERT models on 31 different datasets. The results validated the hypothesis that continuously training language models on very large Twitter datasets helps to achieve better performance on Twitter datasets. This project has been submitted in a reputed journal, which is currently under review.
+- Introduced two transformer based models, TweetBERT, which are domain-specific language presentation models pre-trained on millions of Twitter data (tweets). Evaluated and compared 12 BERT models on 31 different datasets. The results validated the hypothesis that continuously training language models on very large Twitter datasets helps to achieve better performance on Twitter datasets. This project has been submitted in a reputed journal, which is currently under review.
 
--Developed LSTM model for time-series analysis and forecasting.
+- Developed LSTM model for time-series analysis and forecasting.
  
--Carried out a survey on various types of language models that helped to gained strong knowledge on transformer based models and on neural network architectures such as RNN, CNN, and GAN.
+- Carried out a survey on various types of language models that helped to gained strong knowledge on transformer based models and on neural network architectures such as RNN, CNN, and GAN.
 
--Developed a model for detecting emotions using EEG dataset. This model was developed by converting EEG instances into image format and then using autoencoder and data augmentation.
+- Developed a model for detecting emotions using EEG dataset. This model was developed by converting EEG instances into image format and then using autoencoder and data augmentation.
 
--Created a clustering model using machine learning algorithm for selecting features and classification using sequential forward selection with Naive Bayes.
+- Created a clustering model using machine learning algorithm for selecting features and classification using sequential forward selection with Naive Bayes.
 
--Developed sequential model for text simplification using semantic similarity.  
+- Developed sequential model for text simplification using semantic similarity.  
 
--Developed a non linear regression model for text analysis.
+- Developed a non linear regression model for text analysis.
 
 
--Designed a link prediction neural network-based framework similar to the Katz index, SimRank and rooted PageRank. Experiment conducted using real-life data sets consisting of over 3,000,000 combined unique tweets and over 250,000 combined unique hashtags. A graph analysis was carried out and Tableau software was used for data cleaning. This research work has been accepted for publication as a book chapter in Advances in Social Networks Analysis and Mining (ASONAM).
+- Designed a link prediction neural network-based framework similar to the Katz index, SimRank and rooted PageRank. Experiment conducted using real-life data sets consisting of over 3,000,000 combined unique tweets and over 250,000 combined unique hashtags. A graph analysis was carried out and Tableau software was used for data cleaning. This research work has been accepted for publication as a book chapter in Advances in Social Networks Analysis and Mining (ASONAM).
 
 
 
