@@ -84,10 +84,11 @@ Designed a link prediction neural network-based framework similar to the Katz in
 
 *BRAC University, Dhaka, Bangladesh (2015-2018)*, Bachelors of Science, Computer Science
 
-## Miscellaneous
-- Linkedin Skill Assesment Badge
+## Certifications
+- Linkedin
   - Python 
   - MySQL 
   - Machine Learning
-- Designed an innovative Smart Stove project which was selected to be showcased at a national level competition at the innovation expo of Power and Energy Week held by the Ministry of Power  & Electricity.
-- Successfully completed designing and implementing an Android based taxi calling app as my last year Android developing project.
+- HackerRank 
+  - Python
+  - Java
