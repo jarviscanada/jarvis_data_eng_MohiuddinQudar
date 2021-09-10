@@ -1,14 +1,8 @@
 # Mohiuddin Md Abdul Qudar . Jarvis Consulting
 
-  I have completed my master's degree in computer science, at Lakehead University, focusing on applied 
-  machine learning and deep learning techniques to overcome numerous shortcomings in the health 
-  domain. I have also worked as a Data Research Analyst in the DaTAlab research group of Lakehead University. My 
-  research work was funded by the Natural Sciences and Engineering Research Council (NSERC), Govt. of 
-  Canada. My research projects are published in reputed conferences and journals. The projects involved 
-  analyzing a variety of large health data to find trends, anomalies, and other patterns in the data. 
-  I am highly enthusiastic to develop data modeling products and provide solutions for different 
-  types of datasets to optimize and ease decision-making processes that can save a substantial amount of 
-  money and improve customer experience. 
+I received my master's degree at Lakehead university,  in computer science, with a focus on applied machine learning and deep learning techniques to address a variety of business-related issues. I have worked as a research data analyst with Lakehead University. I have worked with various machine learning and deep learning models as a data researcher. I have over 7 years of working experience with Python, SQL(ETL), Microsoft Excel, and knowledge related to data analysis, reporting, analytics, and data modeling.
+
+My research work has been recognized and published in top peer-reviewed journals such as Expert Systems with Applications and IEEE Systems, Man, and Cybernetics Society. I have developed a transformer-based natural language model to carry out text analysis for Twitter, which can be used for gathering customer insights about a product from online reviews or detect a pandemic in its early stages. This language model has outperformed all other language models for analyzing tweets.
 
 ## Profile Summary
 
